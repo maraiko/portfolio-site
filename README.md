@@ -1,2 +1,2 @@
 # portfolio-site
-Portfolio-site
+Nothing special really. Just a normal README to read. More information in the future...
